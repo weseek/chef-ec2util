@@ -1,4 +1,4 @@
-chef-ec2util Cookbook
+ec2util Cookbook
 =============
 TODO: Enter the cookbook description here.
 

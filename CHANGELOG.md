@@ -1,4 +1,4 @@
-# CHANGELOG for chef-ec2util
+# CHANGELOG for ec2util
 
 This file is used to list changes made in each version of hoge.
 
