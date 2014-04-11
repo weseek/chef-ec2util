@@ -1,4 +1,4 @@
-name             'chef-ec2util'
+name             'ec2util'
 maintainer       'WESEEK, Inc.'
 maintainer_email 'syunsuke@weseek.co.jp'
 license          'All rights reserved'

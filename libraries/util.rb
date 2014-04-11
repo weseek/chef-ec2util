@@ -1,6 +1,6 @@
 require 'json'
 
-class Chef::Recipe
+class Chef::Recipe::EC2Util
   
   def get_instance_id
     (`curl -s http://169.254.169.254/latest/meta-data/instance-id`).strip rescue ""
